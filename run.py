@@ -90,7 +90,7 @@ async def main():
         new_json_data = await request(
             f"https://api.ambr.top/v2/chs/avatarFetter/{data['id']}"
         )
-        for i in chain(*[list({j, 0 - j}) for j in range(4)]):
+        for i in [0 - j for j in range(1, 5)]:
             try:
                 begin = date(now.year + i, data["birthday"][0], data["birthday"][1])
                 break
