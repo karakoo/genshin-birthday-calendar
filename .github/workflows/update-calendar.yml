@@ -1,6 +1,10 @@
 name: Update Calendar
 run-name: Update Genshin Impact Birthday Calendar!🚀
 on:
+  push:
+    branches: [ main ]
+    paths: # 这里是用来指定哪个文件更改，才会触发的
+      - 'run.py'
   schedule:
     - cron: '0 * * * *'
   workflow_dispatch:
