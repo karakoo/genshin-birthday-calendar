@@ -18,3 +18,8 @@ license = {text = "MIT"}
 
 [tool.pdm]
 package-type = "application"
+
+[tool.pdm.dev-dependencies]
+dev = [
+    "black>=23.12.0",
+]
