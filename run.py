@@ -1,7 +1,7 @@
 from datetime import date, datetime, timedelta
 from itertools import chain
 from pathlib import Path
-from typing import Literal
+from typing import Any, Literal
 
 from httpx import AsyncClient
 from pydantic import BaseModel, PositiveInt
@@ -10,7 +10,7 @@ from ical.calendar import Calendar
 from ical.calendar_stream import IcsCalendarStream
 from ical.event import Event, EventStatus
 from ical.parsing.property import ParsedProperty
-from ical.types import Frequency, Recur
+from ical.types import Frequency, Recur, Uri
 
 LANGUAGE: Literal[
     "chs",
@@ -44,6 +44,19 @@ class Item(BaseModel):
     birthday: Birthday
 
 
+async def request(url: str) -> dict[str, Any] | None:
+    import asyncio
+
+    while True:
+        try:
+            response = await client.get(url)
+            if response.status_code != 200:
+                return
+            return response.json()
+        except:
+            await asyncio.sleep(1)
+
+
 async def main():
     now = datetime.now()
     # noinspection SpellCheckingInspection
@@ -64,9 +77,10 @@ async def main():
             ),
         ],
     )
-    host = f"https://api.ambr.top/v2/{LANGUAGE}/avatar"
-    response = await client.get(host)
-    json_data = response.json()
+    if (
+        json_data := await request(f"https://api.ambr.top/v2/{LANGUAGE}/avatar")
+    ) is None:
+        return
     for data in [
         v for _, v in json_data["data"]["items"].items() if v["name"] != "旅行者"
     ]:
@@ -76,16 +90,22 @@ async def main():
                 break
             except ValueError:
                 continue
+        name = data["name"]
         # noinspection PyUnboundLocalVariable
         event = Event(
-            summary=f"{data['name']}的生日",
+            summary=f"{name}的生日",
             dtstart=begin,
             duration=timedelta(days=1),
             rrule=Recur(freq=Frequency.YEARLY),
             status=EventStatus.CONFIRMED,
             transp="TRANSPARENT",
+            url=Uri(f"https://wiki.biligame.com/ys/{data['name']}"),
+            description=json_data["data"]["story"]["0"]["text"].replace("\\n", "\n")
+            if json_data is not None
+            else None,
         )
         calendar.events.append(event)
+        print(name, "is OK")
 
     await client.aclose()
 
