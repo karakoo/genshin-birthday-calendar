@@ -1,0 +1,28 @@
+name: Update Calendar
+run-name: Update Genshin Impact Birthday Calendar!🚀
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+jobs:
+  Update-Calendar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup PDM
+        uses: pdm-project/setup-pdm@v3
+
+      - name: Install dependencies
+        run: pdm install
+
+      - name: Run script
+        run: python run.py
+
+      - name: Submit Update
+        run: |
+          git config --global user.name "${{ secrets.name }}"
+          git config --global user.email "${{ secrets.email }}"
+          git add .
+          git commit -m ':sparkles: Auto Update Calendar'
+          git push origin main
