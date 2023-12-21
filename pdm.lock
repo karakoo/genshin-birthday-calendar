@@ -5,7 +5,7 @@
 groups = ["default", "dev"]
 strategy = ["cross_platform", "inherit_metadata"]
 lock_version = "4.4.1"
-content_hash = "sha256:7f3e99e7177c16d8af446929b8b7a4fb052def66c0ce08597145ed74d3990094"
+content_hash = "sha256:19d06c06d1dc2250b14fc665c88b522a7661dec73648df5a30b84021beca214c"
 
 [[package]]
 name = "aiohttp"
@@ -222,23 +222,6 @@ dependencies = [
 files = [
     {file = "httpx-0.26.0-py3-none-any.whl", hash = "sha256:8915f5a3627c4d47b73e8202457cb28f1266982d1159bd5779d86a80c0eab1cd"},
     {file = "httpx-0.26.0.tar.gz", hash = "sha256:451b55c30d5185ea6b23c2c793abf9bb237d2a7dfb901ced6ff69ad37ec1dfaf"},
-]
-
-[[package]]
-name = "ical"
-version = "6.1.1"
-requires_python = ">=3.10"
-summary = "Python iCalendar implementation (rfc 2445)"
-groups = ["default"]
-dependencies = [
-    "pydantic>=1.9.1",
-    "pyparsing>=3.0.9",
-    "python-dateutil>=2.8.2",
-    "tzdata>=2023.3",
-]
-files = [
-    {file = "ical-6.1.1-py3-none-any.whl", hash = "sha256:e11cddad23f0f667888a6de4b8526704f7bb9835c6443962a5175a6cc98e92b4"},
-    {file = "ical-6.1.1.tar.gz", hash = "sha256:dc4b4db21fbaebae8f44a67f2021914dad16a34d992f46009ec07984c50a95ee"},
 ]
 
 [[package]]
