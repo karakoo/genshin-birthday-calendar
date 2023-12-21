@@ -7,9 +7,8 @@ authors = [
 ]
 dependencies = [
     "pydantic>=2.5.2",
-    "orjson>=3.9.10",
     "httpx>=0.26.0",
-    "ics>=0.7.2",
+    "ical>=6.1.1",
 ]
 requires-python = "==3.12.*"
 readme = "README.md"
