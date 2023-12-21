@@ -44,10 +44,11 @@ class Item(BaseModel):
     birthday: Birthday
 
 
+# noinspection PyBroadException
 async def request(url: str) -> dict[str, Any] | None:
     import asyncio
 
-    while True:
+    for _ in range(10):
         try:
             response = await client.get(url)
             if response.status_code != 200:
@@ -84,6 +85,9 @@ async def main():
     for data in [
         v for _, v in json_data["data"]["items"].items() if v["name"] != "旅行者"
     ]:
+        new_json_data = await request(
+            f"https://api.ambr.top/v2/chs/avatarFetter/{data['id']}"
+        )
         for i in chain(*[list({j, 0 - j}) for j in range(4)]):
             try:
                 begin = date(now.year + i, data["birthday"][0], data["birthday"][1])
@@ -100,8 +104,8 @@ async def main():
             status=EventStatus.CONFIRMED,
             transp="TRANSPARENT",
             url=Uri(f"https://wiki.biligame.com/ys/{data['name']}"),
-            description=json_data["data"]["story"]["0"]["text"].replace("\\n", "\n")
-            if json_data is not None
+            description=new_json_data["data"]["story"]["0"]["text"].replace("\\n", "\n")
+            if new_json_data is not None
             else None,
         )
         calendar.events.append(event)
