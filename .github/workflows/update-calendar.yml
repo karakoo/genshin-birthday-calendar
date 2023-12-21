@@ -17,7 +17,7 @@ jobs:
         run: pdm install
 
       - name: Run script
-        run: python run.py
+        run: pdm run run.py
 
       - name: Submit Update
         run: |
