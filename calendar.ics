@@ -1,0 +1,1193 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//Karako//Genshin Impact Birthday Calendar 0.1.0//CHS
+VERSION:2.0
+NAME:原神生日日历
+X-WR-CALNAME:原神生日日历
+TIMEZONE-ID:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+X-PUBLISHED-TTL:PT1H
+X-WR-CALDESC:提瓦特全角色生日日历
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+BEGIN:VEVENT
+DTSTAMP:20231221T083049
+UID:3eaba636-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230928
+DURATION:P1D
+SUMMARY:神里绫华的生日
+DESCRIPTION:继承稻妻城中至为尊崇的三家名门之一——神里家族的，是一对兄妹。\n哥哥绫人出任「家主」一职，掌管政务，妹妹绫华贵为「公主」，平
+ 日主理家族内外事宜。\n绫华常出现在社交场合，与民间交集也较多。因此，更被人们所熟悉的她反而获得了高于兄长的名望，被雅称为「白鹭公主」。\n众所周知
+ ，神里家的女儿绫华小姐容姿端丽、品行高洁，是深受民众钦慕的人物。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/神里绫华
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083049
+UID:3eaba637-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230314
+DURATION:P1D
+SUMMARY:琴的生日
+DESCRIPTION:西风骑士团是守护蒙德的剑与盾。\n除了清扫荒野的魔物、守护城市与道路安全之外，骑士团最重要的工作是维护蒙德的秩序。\n虽说蒙德
+ 是自由之都，但无边际的散漫只会带来混沌与彷徨。\n琴非常明白这一道理，所以才坚持严谨刻苦的作风，以最严苛的要求对待自己。\n——然后一不留神，就在月
+ 初消耗完了当月所有的咖啡配额。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/琴
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083049
+UID:3eaba638-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230609
+DURATION:P1D
+SUMMARY:丽莎的生日
+DESCRIPTION:西风骑士团的图书管理员，胸怀万卷的优雅淑女。\n据说她是须弥教令院两百年一遇的天才魔女。\n虽然不知道具体理由，但在须弥国进修
+ 两年之后，她最终回到了蒙德。\n目前，丽莎在西风骑士团工作，职位是管理骑士团藏书的图书管理员。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/丽莎
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083049
+UID:3eaba639-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230705
+DURATION:P1D
+SUMMARY:芭芭拉的生日
+DESCRIPTION:芭芭拉是西风教会的祈礼牧师，同时也是蒙德城的闪耀偶像。\n「只要看到芭芭拉，心情就能变好。」——蒙德城里流传着这样的说法。\n
+ 实际上，不只是心情，伤口或者身体不适也能一起治愈。\n人们知道，芭芭拉可以通过水元素的「神之眼」，释放奇妙的魔法。\n但在芭芭拉心中，最神奇的魔法只
+ 有「切实的努力」而已。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/芭芭拉
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083049
+UID:3eaba63a-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20231130
+DURATION:P1D
+SUMMARY:凯亚的生日
+DESCRIPTION:凯亚·亚尔伯里奇，酒业大亨「莱艮芬德」家的义子。\n他已很久没有称呼迪卢克·莱艮芬德为「义兄」了。\n目前他担任西风骑士团的骑
+ 兵队长，是一位可靠的行动派、深得琴信任的人物。\n在蒙德这座城邦的范围之内，但凡发生了什么突发事件，凯亚总会是那个收尾善后的人。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/凯亚
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083049
+UID:3eaba63b-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230430
+DURATION:P1D
+SUMMARY:迪卢克的生日
+DESCRIPTION:作为诗酒之城，蒙德的酒业闻名遐迩。\n而「晨曦酒庄」的主人迪卢克老爷掌握了蒙德酒业之半，这意味着，他掌握了金钱的流动脉络与酒馆
+ 的闲言碎语。\n某种意义而言，称得上是无冕的蒙德之王。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/迪卢克
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083049
+UID:3eaba63c-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230909
+DURATION:P1D
+SUMMARY:雷泽的生日
+DESCRIPTION:雷泽是生活在奔狼领的神秘少年，很少有蒙德居民能发现他的行踪。\n但据少数目击者称，雷泽五感敏锐，身手矫健，能在树林中高速穿梭，
+ 又常与狼群共同出没，不会主动靠近人类。\n有人猜测，他是被狼群抚养大的弃婴。也有人说，他是幻化成少年模样的狼灵。\n种种猜测，为「狼少年」这一别称增
+ 添了许多神秘色彩。\n而「狼少年」雷泽本人，今日依旧站在山岗上，仰头沐浴着温暖的阳光。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/雷泽
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083050
+UID:3eaba63d-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230810
+DURATION:P1D
+SUMMARY:安柏的生日
+DESCRIPTION:安柏是西风骑士团的侦察骑士。在侦察骑士已然没落的现在，她独自坚守着这份职责。\n初来乍到的旅客用不着三天，便能与这位热情似火的
+ 少女打成一片。\n「猎鹿人」的招牌前、果酒湖岸边、风起地大橡树的树顶，都有敏锐机警的红色骑士所留下的足迹。\n任何被她盯上的「可疑人士」，绝对逃不过
+ 骑士认真的质询。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/安柏
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083050
+UID:3eaba63e-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230616
+DURATION:P1D
+SUMMARY:温迪的生日
+DESCRIPTION:来路不明的吟游诗人。有时唱诵一些老掉牙的旧诗，有时又会哼出谁也没听过的新歌。\n喜欢苹果和热闹的气氛，讨厌奶酪和一切黏糊糊的玩
+ 意儿。\n引导「风」之元素力时，元素塑形往往外显为羽毛，因为他很中意看上去轻飘飘的东西。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/温迪
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083050
+UID:3eaba63f-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20231102
+DURATION:P1D
+SUMMARY:香菱的生日
+DESCRIPTION:「来了来了，爆炒肉片一份！这是你的，『摩拉肉』。还有你的，秘制炸萝卜丸子。」\n璃月有块地方叫「吃虎岩」，「吃虎岩」有个饭馆叫
+ 「万民堂」。\n在这条人来人往的街道上，必须保持万分专注才能一心向前。\n初来乍到的旅人稍有不慎，就会被菜肴香气勾出馋虫，又或者按捺不下对这嗓音的好
+ 奇，探头望向店里。\n而香菱，「万民堂」的跑堂兼大厨，正往客桌上摆放热气腾腾的美食。\n「空着的位置可以随意坐。有什么想吃的，菜谱上没有我也能做！」
+ \n对「万民堂」店员来说，平日判断来客是否「万民堂」熟客的办法，除了认脸，便是听他的第一句话。\n不用菜谱直接点菜的，一定来过不止一次；要是问出「今
+ 天香菱下厨吗」，就保准是个老道的饕客。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/香菱
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083050
+UID:3eaba640-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230214
+DURATION:P1D
+SUMMARY:北斗的生日
+DESCRIPTION:北斗是「南十字」的首领。\n而「南十字」是以璃月港为根据地活动的武装船队。\n所谓「武装船队」，只是字面上的意思：一支装备了可
+ 靠火力的船队。\n不必多想，「南十字」的一切作为均已得到七星的许可…大致如此。\n北斗是一位能让全船队水手心服口服的首领。他们甚至愿意相信，北斗能够
+ 压制海上的巨浪与风暴。\n「那可是北斗姐啊！再狂乱的风暴也得对更有威力的气象低头的嘛。」
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/北斗
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083050
+UID:3eaba641-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20231009
+DURATION:P1D
+SUMMARY:行秋的生日
+DESCRIPTION:璃月港的商人都知道，飞云商会里有一位行秋少爷。\n在旁人看来，行秋待人温和有礼，又勤奋好学，是年轻一代中的翘楚。\n作为家族次
+ 子，商会事务尚不需要行秋主持。但在各大巨贾子弟中，行秋拥有罕见的读书天赋，向来受教书先生们赞赏。\n家中那位正在向老爹学习经商与持家的大哥，也认为行
+ 秋将来必成大器。\n殊不知，行秋看完厚度惊人的经商总集与贤人哲思以后，会把它们从中间挖空，塞进武侠小说看个不停。\n偶尔，行秋也会突然消失。旁人问及
+ 去了哪里、做了什么时，他总是回答：「偷得浮生半日闲」。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/行秋
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083050
+UID:3eaba642-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230417
+DURATION:P1D
+SUMMARY:魈的生日
+DESCRIPTION:外表虽是少年人，魈的真实年纪却已超过两千岁。\n好在没有人单看外表就轻慢他，只要打过照面，任谁都能明白，他是个狠角色。\n——
+ 危险、寡言。眼神锐利如刀。\n在仙人之间，魈的辈分与声望堪称翘楚，但在人间，他的名望并不高。\n因为他既非招揽富贵、庇佑世人安康的福星；也非手握仙道
+ ，高居在绝云间的圣众。\n能见到魈施展神通的人，必定是九死一生、身处险境之人。\n并非魈要加害于人，而是他始终在与足以吞没璃月万家灯火的黑暗战斗。普
+ 通人若是目击到战斗现场，难免会被殃及。\n当然，这并不是什么需要灭口的秘密啦。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/魈
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083050
+UID:3eaba643-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230826
+DURATION:P1D
+SUMMARY:凝光的生日
+DESCRIPTION:「璃月七星」掌管整个璃月港的商业运作，身居高位自然引得千万觊觎。小心驶得万年船是他们的共识，抛头露面不是他们喜爱的作风。\n但
+ 七星之中的「天权」星，凝光，是唯一的例外。\n敌人眼中厉害的商人、孩子眼中亲切的大姐姐、玉京台宴会上的名媛、甜食界不动如山的鉴赏家…提到凝光，所有人
+ 都能侃侃而谈，仿佛对她了如指掌。然而每个人口中的故事都不尽相同，甚至相去甚远。\n「凝光大人是个厉害人物」——所有故事中，只有这样一个共通之处。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/凝光
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083050
+UID:3eaba644-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230727
+DURATION:P1D
+SUMMARY:可莉的生日
+DESCRIPTION:如果向蒙德的酒客们说起西风骑士团战力最强的成员，\n恐怕大多数人会列举大名鼎鼎的代理团长琴、骑兵队长凯亚或神秘的贵公子迪卢克。
+ \n但也有人在醉眼朦胧间，目睹了一位红色骑士将整座望风山地夷为平地的壮举——\n若想寻访这位神秘的骑士，恐怕就要到西风骑士团的禁闭室一探究竟了。\n
+ 假如禁闭室空空如也，或许某些爆炸性的糟糕事件就快要发生了…\n可莉就是这样的「危险人物」。作为骑士团正式成员，她的战力不容小觑。\n而作为一个过于活
+ 泼的孩子，她的破坏力同样巨大。\n毕竟，与蒙德其他小孩子不同，爆炸物才是可莉最为喜爱的玩具。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/可莉
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083050
+UID:3eaba645-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20231231
+DURATION:P1D
+SUMMARY:钟离的生日
+DESCRIPTION:在璃月的传统中，「请仙」与「送仙」是同样重要的事。\n最擅长「送别」一道的，莫过于胡家传承七十七代的「往生堂」。但「往生堂」的
+ 堂主胡桃本人，主要还是专注于送别凡人的技艺。\n送别仙人的诸般仪式，则交由一位「道上的朋友」——钟离打理。\n仙人与璃月一同度过漫长岁月，三千多年来
+ 升天者寥寥无几，这就意味着一切相关传统都只能以纸面形式存在——时间跨度实在太长了，这可不是那种你小时候咬着糖葫芦参加过一回，老了还能躺在竹椅上再次亲
+ 眼目睹的事件。\n但即便是眼光最为挑剔、沉迷旧纸堆的老学究，也无法对「往生堂」操办的送仙典仪挑出任何毛病。\n不仅仪式中人的服饰合规，仪式举行的吉时
+ 、地点、用具，乃至当天天气、仪式时长、允许观礼人数、观礼者身份职业年龄…哪怕将以上所有全都纳入计量范畴，也无一不合礼节。\n若人们以「通古晓今」来形
+ 容钟离，他只会无奈地一笑，叹道：\n「我只是…记性很好。」
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/钟离
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083050
+UID:3eaba646-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230527
+DURATION:P1D
+SUMMARY:菲谢尔的生日
+DESCRIPTION:菲谢尔是由异世界的「幽夜净土」流落至此的「断罪之皇女」。\n她与会说话的夜鸦眷属「奥兹」一同，「观测编织命运的因果之丝」。\n
+ 出于某些她说不清，而奥兹又不愿明说的原因…菲谢尔目前正以调查员身份供职于冒险家协会。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/菲谢尔
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083051
+UID:3fba4898-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20240229
+DURATION:P1D
+SUMMARY:班尼特的生日
+DESCRIPTION:「班尼冒险团」是冒险家协会蒙德分会的一个特例。\n为了相互扶持、降低意外率而设置的「冒险团」机制，要求团队内至少有三到四名常驻
+ 冒险者。\n而班尼特作为团长的「班尼冒险团」仅有团长一人在队。这种状态已经维持了很久。\n队员的流失，与团长班尼特那「霉运缠身」的体质脱不开关系。\
+ n但对冒险充满着热情的班尼特，并不会因此而感到孤单——\n偶尔，内心深处有过那么一次两次。也许吧。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/班尼特
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083051
+UID:3fba4899-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230720
+DURATION:P1D
+SUMMARY:达达利亚的生日
+DESCRIPTION:尽管已经进入愚人众最顶层的「执行官」之列，但「公子」达达利亚的外表，似乎还是一位稚气未脱的青年。\n就如天鹅绒包裹的白银利刃一
+ 般，在他开朗自信的外表之下，是锤炼到极致的剑客之躯。\n他是最年轻的愚人众执行官，也是最危险的愚人众执行官之一。\n然而，「公子」似乎永远与他的同僚
+ 们不太合得来。\n作为最纯粹的战士，他在这个充满阴谋的集体中显得格格不入。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/达达利亚
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083051
+UID:3fba489a-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230321
+DURATION:P1D
+SUMMARY:诺艾尔的生日
+DESCRIPTION:和普通的骑士团女仆相比，诺艾尔心中有着更加远大的梦想。\n在这被西风骑士团庇护了千年的城邦里，她与万千普通少男少女一样，都憧憬
+ 着有朝一日能穿上那副象征荣耀的甲胄。\n就算自身能力还不足以通过严苛的骑士选拔，至少也要在更近的地方学习骑士言行。\n训练学习之余，她很享受现在的生
+ 活——在蒙德城忙里忙外，出现在每一个需要帮助的人身边。\n「交给我吧！什么都可以交给我！」\n这是她的口头禅，所以有需要的话，就呼唤她的名字吧，她会
+ 很开心的。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/诺艾尔
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083051
+UID:3fba489b-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230303
+DURATION:P1D
+SUMMARY:七七的生日
+DESCRIPTION:因为是僵尸，所以缺乏面部表情也是可以原谅的吧。\n别看是僵尸，其实一直有认真在锻炼身体。\n记忆力极差。忘性太大也是对人冰冷的
+ 原因之一。\n外表永远停留在了逝去那年，年龄不可考。\n僵尸需要听从敕令行动。但因为某些原因，七七现在是自己给自己下敕令的状态。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/七七
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083051
+UID:3fba489c-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230907
+DURATION:P1D
+SUMMARY:重云的生日
+DESCRIPTION:璃月港悠长的历史中，各种妖邪异闻从未断绝。无论真相如何，总要有人出面解决。\n重云出生于知名驱邪世家，自幼便拥有能够慑退鬼怪的
+ 「纯阳之体」。他的驱邪之法异于常人，只需在异闻之地静坐一番，妖邪当即四散。\n但这对重云来说，是个很大的困扰——单论驱邪之事，他已身经百战。可迄今为
+ 止，他连半张妖邪的正脸都没见过。\n重云心中自知：依赖「纯阳之体」终归是取巧，咒法与剑术才是正道。\n因此，他苦心研习方术与武技，四处寻访传闻中妖邪
+ 出没之地，以证明自己驱邪的本事与特殊体质无关。\n但…这体质究竟要到什么时候，才能不妨碍重云的自我证明之路呢？
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/重云
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083051
+UID:3fba489d-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20231202
+DURATION:P1D
+SUMMARY:甘雨的生日
+DESCRIPTION:在璃月，百姓们大多对「玉京台」的生活心驰神往，对其中的运转规则却知之甚少。\n人们知道「璃月七星」是人中翘楚，掌握着城市的命脉
+ 。但他们很难了解，每个决议背后的数据支撑，是如何建立起来的。\n人们知道每一年新颁布的条例都会给市场带来全新的变数，却不知道它们是怎样从繁杂的会议纪
+ 要中被摘录出来，逐渐整编成为晓畅的文字的。\n甘雨，「月海亭」的秘书，承担了诸多世人看不见的工作。\n纵然世人得知甘雨的地位，恐怕他们也很难将「月海
+ 亭」的秘书与破晓时分站在码头上、安静享用早点的少女联系起来。\n但在旭日东升之前，她一定会重新回到高踞玉京台之上的月海亭，继续完成她的「契约」。\n
+ ——那是远在三千年前，她与「岩王帝君」签订的契约。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/甘雨
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083051
+UID:3fba489e-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230913
+DURATION:P1D
+SUMMARY:阿贝多的生日
+DESCRIPTION:「炼金」这门技术历史悠久，且已严重失传。如今，广为人知的那些炼金技法只够用来拼接物件碎块，起到一些节省胶水钱的作用罢了。\n如
+ 果听见别人这么说，炼金术士们一定会大喊：这门学问才没那么不堪！\n可惜在蒙德民众眼里，这差不多就是炼金术的本质了。\n直到有一天，阿贝多突然出现并定
+ 居在蒙德城。\n这位年轻人，以其惊人技术为大家揭露了炼金术的真正境界。\n连须弥教令院都未能掌握的庞大知识体系，被这名少年娓娓道来。\n「宇宙——即
+ 颠倒之天。地层——乃是时间都忘记的梦。这是灰，是生命这种复杂结构的最简状态。」\n像是为了佐证这一神妙说法，阿贝多捧起草史莱姆头顶花朵烧出的灰烬。\
+ n几秒之后，他手中的灰堆里开出了一朵塞西莉亚花。\n「这是新生。」
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/阿贝多
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083051
+UID:3fba489f-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230118
+DURATION:P1D
+SUMMARY:迪奥娜的生日
+DESCRIPTION:酒客每次走进「猫尾酒馆」，一定会先把视线投向吧台的方向。\n因为那里经常站着一位猫耳微动的少女，一边晃着摇壶，一边露出一脸不高
+ 兴的样子。\n那就是蒙德酒业的超新星，传统势力的最大挑战者，调酒师迪奥娜。\n但调出好喝的酒并非她的本意——不如说，恰恰相反。\n她调酒的配方，在外
+ 人看来，似乎是「有些不可思议」。但在迪奥娜自己看来，根本就是「我真的在努力破坏那杯讨厌的液体了」。\n但不论什么品种的酒，只要经迪奥娜之手调制以后，
+ 都会变成难以想象的美味佳酿。\n这是一种「受祝福的体质」，而这种体质给迪奥娜造成了很大的困扰。\n因为，对自诩「酒业杀手」的迪奥娜来说，以一己之力摧
+ 毁整个蒙德的酒业，才是她的最终目标。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/迪奥娜
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083051
+UID:3fba48a0-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230831
+DURATION:P1D
+SUMMARY:莫娜的生日
+DESCRIPTION:提瓦特大陆上众生奔忙，行商运货，骑士巡街，农人耕作。\n但如果问莫娜——神秘高傲的占星术士——在忙些什么的话，答案大概会是，忙
+ 着计算一笔名为「生活」的账。\n尽管她本人一定会否认「穷」这个说法，作出如下辩解：\n「太过漂亮的景象会把最简朴的真实藏起来。\n太过美味的食物会让
+ 人忘记这东西有多少营养。\n简朴的生活是为了看破世界的真实。」\n清贫的生活只是通往真实的修行…这是莫娜本人一直坚持的说辞。\n提瓦特大陆上众生奔忙
+ ，连神秘的占星术士也不例外。\n——哦，不过吟游诗人好像真的什么都不做。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/莫娜
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083052
+UID:3fba48a1-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20231120
+DURATION:P1D
+SUMMARY:刻晴的生日
+DESCRIPTION:岩王帝君为璃月港带来繁荣昌盛，他的治世威名化作演义传记为人津津乐道。然而，身为离神最近的人之一，刻晴似乎是最缺乏敬畏心的那个。
+ \n「哼，说句不好听的，摩拉克斯他真的什么都懂吗？」\n璃月七星随时关注着港内的大小事情，岩王帝君每年却只降临一次。\n千年历史已经证明追随帝君的脚
+ 步是正确之举，但刻晴始终认为，生而为「人」就该有「人」的骄傲，「人」的想法同样该被重视。\n因此，她经常发表与帝君不同的意见，并一马当先地将其付诸实
+ 践。\n如此激进的做法确实取得了不少杰出成果，但也引来了诸多岩王帝君虔诚信徒的反对声。\n这种反对在刻晴看来，无非是偷懒的借口——习惯于活在神明庇护
+ 之下，永不会主动思考人类的前景。\n可总有一个人要走在时代最前沿，亲手开创新的道路。玉衡星，自然当仁不让。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/刻晴
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083052
+UID:3fba48a2-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20231126
+DURATION:P1D
+SUMMARY:砂糖的生日
+DESCRIPTION:砂糖作为炼金术天才阿贝多的助手，在研究方向上却与他大相径庭。\n比起探究炼金术的本质和创造新生命，她更加感兴趣的是如何使用炼金
+ 术去改造已有的生命，让世界变得更丰富多彩。\n年纪轻轻的她已经成就斐然：比如通过使用特殊的药剂灌溉，让甜甜花的花蜜产量提升了七成；又比如制作了一种特
+ 殊喷雾，让日落果离枝后能保鲜一整个月。\n原本对砂糖的研究方向持怀疑态度的人，在见识到这些成果之后，也渐渐地承认了她在炼金术上的卓越天赋。\n不过对
+ 她而言，这些都不算成功的实验结果，只是通往成功之路上的偶然之举。她的目标，比这些宏伟得多。\n这个目标是她的秘密，也是她小小的浪漫。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/砂糖
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083052
+UID:3fba48a3-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20231016
+DURATION:P1D
+SUMMARY:辛焱的生日
+DESCRIPTION:摇滚发源于枫丹，在璃月港属于新兴艺术，辛焱则是这门艺术身先士卒的践行者。\n每到夜里，她就会背上亲手做的乐器，站上亲手搭建的舞
+ 台，为每一位前来捧场的听众演奏她亲手谱写的乐曲。\n她的曲子正如其人，直爽豪迈，自信骄傲。\n她在音乐上的造诣或许算不上顶尖，但她的忠实观众会忘情地
+ 与她一起欢呼，用声音和肢体发泄平日中的烦闷与苦恼。\n当辛焱忘我之时，从她的神之眼迸射出的火焰，像是要带领人们把黑夜点成白昼。\n「一位演奏摇滚的奇
+ 才，更是一位演奏气氛的大师。」\n「蒸汽鸟报社」曾经这样评价过她。\n璃月米贵，居大不易。但辛焱会告诉困于尘世冗杂的世人——\n摇滚起来，很容易。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/辛焱
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083052
+UID:3fba48a4-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230124
+DURATION:P1D
+SUMMARY:罗莎莉亚的生日
+DESCRIPTION:罗莎莉亚是蒙德城西风教会下属的一名修女。\n虽说都是神职人员，人们却总会把她和芭芭拉、吉丽安娜等人区分开来。\n光看外形她姑且
+ 还能算是神职人员，平日的言行举止却丝毫没有神职人员应有的风范。\n对神的敬畏之心比普通蒙德市民还少，平日从不参加教会举办的活动。\n独来独往，单独行
+ 动。偶尔出现在大教堂，也只是坐在最后一排长椅上静静地抽烟。\n特立独行的罗莎莉亚，根本只是个教会挂名人士而已。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/罗莎莉亚
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083052
+UID:3fba48a5-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230715
+DURATION:P1D
+SUMMARY:胡桃的生日
+DESCRIPTION:往生堂第七十七代堂主，掌管堂中事务的少女。身居堂主之位，却没有半分架子。\n她的鬼点子，比瑶光滩上的海砂都多。她的脑袋里装着无
+ 数奇思妙想，叫旁人惊讶不已。\n平日里，胡桃俨然是个贪玩孩子，一有闲功夫便四处乱逛，被邻里看作甩手掌柜。\n唯有葬礼上亲自带领仪倌队伍走过繁灯落尽的
+ 街道时，她才会表现出凝重、肃穆的一面。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/胡桃
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083052
+UID:3fba48a6-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20231029
+DURATION:P1D
+SUMMARY:枫原万叶的生日
+DESCRIPTION:初见枫原万叶时，大多数人都以为他不过是「南十字」船队的见习水手。\n毕竟，这位少年的个性实在是平和，闲时又酷爱吟诗，与人谈话时
+ 又总是一副悠然模样。谁能看出他是受到稻妻幕府通缉的危险人物呢？\n就算是擅于识人的船长北斗，在决定收留枫原万叶前，也没能看出这个平和的少年出刀竟能如
+ 此利落，简直是身经百战之辈。\n不知是风雨磨平了少年人的棱角，还是本性内敛的他藏起了自己的锋芒。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/枫原万叶
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083052
+UID:3fba48a7-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230728
+DURATION:P1D
+SUMMARY:烟绯的生日
+DESCRIPTION:璃月是重视契约与贸易的港湾，也是财富积累沉淀的地方。\n各国商人活跃在这里，造就璃月盛景的同时，也带来了许多纠纷。「天权」凝光
+ 为此制定了详尽的法律规定，但并不是每个人都有耐心去研读。\n于是，「律法咨询师」这个职业应运而生。他们熟悉璃月律法，代替需要的人处理矛盾，并从中收取
+ 相应的报酬。\n烟绯，正是璃月港中声名最响的律法咨询师。\n她总能在法律允许的范围内为自己的客户争取到最大利益，有人说她才是璃月港中行走的「规则」。
+ \n但其实，作为少见的未与岩王帝君缔结契约的混血仙兽，烟绯更想要的是自由而快乐的生活。\n至于平时总是携带着一本《璃月百法通则》，并从事法典专家的工
+ 作，烟绯是这样解释的——\n「想要不被规则束缚，首先就要完全理解所有规则。」
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/烟绯
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083052
+UID:3fba48a8-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230621
+DURATION:P1D
+SUMMARY:宵宫的生日
+DESCRIPTION:宵宫的名字在花见坂可谓是家喻户晓。\n她是稻妻技艺最精湛的烟花专家，被誉为「夏祭的女王」。\n继承了「长野原」衣钵的宵宫，能为
+ 烟花赋予变幻莫测的姿态，带给人们无与伦比的体验。\n除去工匠的身份，她还是众多孩子心目中的「英雄姐姐」。在孩子们眼里，无论多大的麻烦，宵宫姐姐都有办
+ 法解决。\n无论是幻想出来的恐惧还是冷酷现实的阴翳，都会在宵宫姐姐星光般的魔法之下烟消云散。\n被她帮助的不只有孩子，只要是愿意向她倾吐烦恼的人，她
+ 都会施以援手，尽力帮助对方渡过险境。\n绚烂的烟火、温暖的星火与热情的灯火，全在宵宫手中腾旋。她那明快的笑容永远能够鼓舞同行之人，为他们照亮前路。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/宵宫
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083052
+UID:3fba48a9-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230109
+DURATION:P1D
+SUMMARY:托马的生日
+DESCRIPTION:托马在神里家的正式职位是「家政官」，负责清扫、烹饪等各项事宜。\n每当出现在社奉行府，托马几乎都忙于该类工作。他能把每一件事都
+ 办到位，就连神里家管家古田也对他的家政技巧赞不绝口。\n不过大部分时间，托马不会呆在社奉行府，而是到别处暗中处理一些特殊事宜。\n例如：解决社奉行遇
+ 到的麻烦、替家主大人打听情报、实现大小姐的愿望等等。\n在那些不为人知的角落里，托马始终用自己的方式延续着社奉行的影响力。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/托马
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083052
+UID:3fba48aa-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20231025
+DURATION:P1D
+SUMMARY:优菈的生日
+DESCRIPTION:优菈在西风骑士团担任「游击小队」队长一职。\n因职责需要，她长期率队在外追猎魔物和深渊教团，不常返回蒙德城内。\n有「浪花骑士
+ 」之称的优菈不仅剑术精湛，更兼备谋略与胆识。大团长法尔伽曾给予她极高的评价，称她为可与「蒲公英骑士」比肩的优秀战士。\n两位优秀的骑士共同守护蒙德，
+ 本是件值得庆幸的好事。然而，优菈与琴有着根本的区别。\n她是旧贵族劳伦斯家的末裔，体内流淌着与从前那些将蒙德桎梏在黑暗中的罪人们相同的血。\n因为出
+ 身，优菈在蒙德民间的风评极差。劳伦斯家族象征着旧蒙德的愚昧与暴政，等同于人们心底永恒的痛苦。\n优菈每每露面，都像是把古老的伤口再次撕开。人们厌恶旧
+ 贵族，自然不会给她什么好脸色。\n然而，这样的优菈却毅然加入骑士团，晋升到了队长职位。\n面对城内种种惊疑，她毫不掩饰，称自己的作为全是「复仇」。人
+ 们畏惧于如此坦率的自白，一度认为她是骑士团的「内鬼」。\n西风骑士团代理团长琴对此则有着不同看法。谈及优菈，她的态度相当友好。\n「传言并不属实，人
+ 们只是还不了解真正的浪花骑士而已。」
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/优菈
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083053
+UID:40e8a642-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230626
+DURATION:P1D
+SUMMARY:雷电将军的生日
+DESCRIPTION:自降生之刻起，人类便会对世界抱有强烈的憧憬与好奇。此乃认知世界的锚点，构筑理智的根基。\n稻妻人民的世界亦是如此。那里很早就有
+ 了风雨和雷电，有了天光与大海…有了「雷电将军」。\n幼子睡前聆听故事，母亲为其讲述的是将军斩魔神降异族的传说。\n少年少女踏遍群岛，眼中所见是雷霆一
+ 刀劈斩而成的峡谷，与森然矗立的苍白蛇骨。\n士兵奔赴战线，口中高喊的是「常道恢弘，鸣神永恒」。\n百姓安居乐业，心中感怀的是将军及其麾下尽忠职守的三
+ 奉行。\n「雷电将军」的威名，早已超脱生命桎梏，化作了稻妻永世传承的信仰。\n在这份威名与力量下，人们有理由相信，他们的后代也会目睹相同的风景，以相
+ 同的信仰构建心中世界，并将这份传承延续下去。\n此即为——将军大人许诺人民的恒常乐土。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/雷电将军
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083053
+UID:40e8a643-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20231019
+DURATION:P1D
+SUMMARY:早柚的生日
+DESCRIPTION:大部分稻妻人并不知道「终末番」的存在。事实上，「终末番」是「社奉行」麾下的一个秘密组织。\n而「终末番」里还有一位名叫早柚的小
+ 小忍者，这件事情，更是鲜为人知。\n早柚是「终末番」里的一个特殊的存在。自幼在「终末番」里长大的她，对组织有着极高的忠诚度。\n然而，她身上最强的特
+ 质却不是「忠诚」，而是「偷懒」。\n「偷懒」是早柚最擅长的事。她早已熟练掌握逃跑、气息隐蔽等各种可以用来偷懒、怠工的忍术。\n不了解她习性的人，想要
+ 找到她，可得费上一番功夫。\n但有关偷懒一事，早柚本人的说辞如下：绝不是懒，只是想把时间用在更有意义的事情上。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/早柚
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083053
+UID:40e8a644-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230222
+DURATION:P1D
+SUMMARY:珊瑚宫心海的生日
+DESCRIPTION:海祇岛的住民，曾生活在海底的渊下宫。\n魔神奥罗巴斯将他们带到地面，才有了海祇岛如今的文明。\n奥罗巴斯被雷神斩杀后，身体化作
+ 累累枯骨，怨念凝成祟神气息。\n但其想要守护海祇岛的意志，却仍未消亡。\n这份意志融入在珊瑚宫家的血脉里，随着珊瑚宫家代代相传。\n继承这份血脉的，
+ 即是海祇岛的「现人神巫女」。\n其意为：以凡人之躯承载神的意志，代替神明守护这片土地之人。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/珊瑚宫心海
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083053
+UID:40e8a645-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230518
+DURATION:P1D
+SUMMARY:五郎的生日
+DESCRIPTION:五郎是海祇岛军的大将，在军队中威望极高，深受部下们爱戴。\n眼狩令期间，五郎多次带领海祇岛军与幕府军作战，即使条件艰难，也成功
+ 守住了防线。\n将士们称他为「常胜的尖耳将军」，这一称号在幕府方面也广为流传。\n私下里，五郎却没什么架子，待人真挚直率，是士兵们公认的知心大哥。\
+ n不过，即使是这样一位优秀的将领，似乎也有着一些自己的烦恼…
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/五郎
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083053
+UID:40e8a646-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230714
+DURATION:P1D
+SUMMARY:九条裟罗的生日
+DESCRIPTION:九条裟罗有着天狗血统，却不像一般天狗那样栖居于山林间。她自幼被九条家收养，归入天领奉行麾下。\n天领奉行是「三奉行」之一，负责
+ 稻妻的一切治安事务。如今裟罗身为天领奉行的大将，肩负着维护稻妻城安定的重任。\n她治理有方又能坚持以身作则，为手下树立了良好榜样。天领奉行辖区内，再
+ 棘手的问题也都能及时处理妥当。\n但由于裟罗平日不苟言笑，执行任务时又雷厉风行，不少稻妻民众都因此断定她是位难以接近的冷面军官。\n而这对外冷内热的
+ 裟罗来说，是个过于片面的评价。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/九条裟罗
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083053
+UID:40e8a647-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230601
+DURATION:P1D
+SUMMARY:荒泷一斗的生日
+DESCRIPTION:行走在花见坂的街道上，很难不注意到一位名为「荒泷一斗」的鬼族青年。\n姑且不论头顶醒目的鬼角与充满穿透力的大嗓门，仅凭那副在孩
+ 子群中兴致盎然参与游戏的模样，就足以让荒泷一斗从芸芸众生中脱颖而出。\n而且，对于工匠云集、终日忙碌的花见坂来说，他也实在是清闲过头了。\n一斗自称
+ 「荒泷派初代目头领」，在某次无伤大雅的街头斗殴后，他曾向前来调查的天领奉行官员解释过这份职业，但两分钟后就被对方打断，并记录下「无职」二字。\n「无
+ 职」一说并不准确。因为除了不被幕府认可的帮派事务之外，一斗也会做些零工维持生计，工作频率为做一休三，十分稳定。\n就算要写，也应该写「四分之三无职」
+ 才对。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/荒泷一斗
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083053
+UID:40e8a648-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230627
+DURATION:P1D
+SUMMARY:八重神子的生日
+DESCRIPTION:掌管鸣神大社的大巫女、白辰血脉的继承者、「永恒」的眷属与友人，以及，轻小说出版社「八重堂」的恐怖总编…\n细究起来，八重神子的
+ 头衔竟与她的性情同样难测多变。\n出于各种目的试图搞清神子「真面目」的人，可以从天领奉行府一路排到「八重堂」门口，然而迄今为止，成功者依旧寥寥。\n
+ 毕竟神子从未刻意掩饰什么。千面百变，不过是兴之所至，随心所欲罢了。没有谜面的谜语，本就不成立。\n——只需记得，她永远是那位「兼具智慧与美貌的八重神
+ 子大人」就好。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/八重神子
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083053
+UID:40e8a649-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230724
+DURATION:P1D
+SUMMARY:鹿野院平藏的生日
+DESCRIPTION:鹿野院平藏，一个不凡的少年侦探。\n虽然任职于天领奉行，给人的感觉却和「威严」、「肃穆」、「庄重」这种公权印象格格不入。\n看
+ 起来他比每个新人都更加乖巧礼貌，实际上却从不循规蹈矩。\n既不像其他同僚那样每日在所里报道，也几乎不会参加日常巡逻。\n有时甚至十天半月都找不着人影
+ ，只有在一些罪案现场才会见到他，可那副笑嘻嘻的模样总让人怀疑他是否在认真工作。\n但有趣的是，这种「公职人员的离经叛道」却似乎是被各方默许了的。\n
+ 同僚心甘情愿配合他的工作，上司也很少对他的自由行动指手画脚。\n甚至连上司的上司都会不时送来「平藏最近过的好不好？」之类的关心。\n如此独树一帜的作
+ 风与地位，全部源自他无人能及的办案本领。\n每当奉行所面对罕见难解的大案要案、疑案悬案时，平藏都会是那个肩负众望的最后破局者。\n连奉行所的一把手也
+ 对他丰富的探案经验赞叹有加，只不过平藏本人对此有不同意见——\n「经验，是人们对曾经犯下的错误的别称，我的杀手锏可不是这个啊。」\n「我生来如此。」
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/鹿野院平藏
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083053
+UID:40e8a64a-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230420
+DURATION:P1D
+SUMMARY:夜兰的生日
+DESCRIPTION:璃月总务司的工作公开透明，上至玉京台高官，下至八门基层雇员，都在政务名录中留有基本信息。\n唯独自称就职于此的夜兰是个例外。多
+ 数同僚都没听过她的大名，名录中亦查无此人。\n这一点倒是跟夜兰本人的风格相当符合——神出鬼没，变幻无常。\n她犹如一条幽灵，常以不同面目出现在各色事
+ 件中心，又赶在风暴停歇前消失无踪。\n偶尔，会有一方势力得到她的协助，但就在他们沾沾自喜时，同样的协助很快又出现在另外一方身上。\n吃过亏的人无不对
+ 此咬牙切齿，可即便如此，也始终没人能看透她的意图，更无法摸清她的立场。\n有人认为，她是服务于某个神秘势力的密探，擅长推波助澜并从中获利。\n更有人
+ 咬定，她只是个狂热的无序者，没有什么组织，更没有什么像样的目的。\n即使有，那也不过是把水搅得更浑，把火烧得更旺，再把所有人拉进她所创造的疯狂世界罢
+ 了。\n众说纷纭中，有关她的事都成了谜。真相究竟如何，或许只能由夜兰本人解答。\n不过非常可惜，这同样不是一件易事。在她乐于见到谁之前，对方永远也无
+ 法找到她。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/夜兰
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083053
+UID:40e8a64b-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230122
+DURATION:P1D
+SUMMARY:绮良良的生日
+DESCRIPTION:如果问一个稻妻人哪家快递公司最可靠，大家都会提到「狛荷屋」的名字。\n若是继续追问这家公司的服务有什么令你印象深刻的地方，人们
+ 脸上则会不约而同地泛起笑意，向你提起一位特殊的快递员——\n那是位活泼可爱的少女，身后有两条跃动的尾巴。当你收下货物，对她道谢之后，少女会露出幸福无
+ 比的表情，向你深鞠一躬，仿佛收到心爱之物的人是她一样。\n你若愿意多花一点时间在「反馈栏」上给个五星好评，或者送她些小零食的话，说不定还能看到这位妖
+ 怪少女眼里冒出激动的星星，尾巴在身后开心晃动的样子。\n啊！不过——人们同时也会告诫你——这只「猫又」可没有看起来那么好欺负。如果你对其他客户的货物
+ 图谋不轨，或者得意忘形地想要摸她尾巴的话…就得后果自负了。\n听大家这么说后，好奇心便难免驱使人来到「狛荷屋」——\n「老板你好，我这儿有一份快递，
+ 想要请那位猫…」\n不等你话说完，老板就以司空见惯的态度向身后喊道：「绮良良！你的指名件！」\n于是，一位少女满脸欣喜地跑到你的面前，理了理头发，拍
+ 了拍衣服，向你笑着说道——\n「您好，欢迎选择狛荷屋！」
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/绮良良
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083054
+UID:40e8a64c-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230404
+DURATION:P1D
+SUMMARY:埃洛伊的生日
+DESCRIPTION:流放者、机械猎手、探索者、被封者、救世主等…在原本的世界里有着诸多身份的她，是一名从「基因」层面就注定要治愈世界的女杰。\n如
+ 今她来到了全新的世界，充满了前所未见的挑战，于是，她再次欣然投身狩猎的旅途。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/埃洛伊
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083054
+UID:40e8a64d-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230310
+DURATION:P1D
+SUMMARY:申鹤的生日
+DESCRIPTION:申鹤本是驱邪世家旁系之子，却在种种机缘巧合之下，意外成为了仙家弟子。\n名义上师从留云借风真君，但凭借绝佳的根骨与悟性，很快赢
+ 得了其他几位仙人喜爱。\n日后陆续从其他仙人处学习，终于以人类之身修出了一身仙家术法。\n气质出尘，举手投足间像是能看见仙气缭绕。一眼看去，说是世外
+ 真仙也毫不为过。\n不过，正因她长年隐修在山林之间，身边除去几位仙人，来去的便只有些仙禽灵兽。\n长此以往，她的个性越发淡漠疏远。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/申鹤
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083054
+UID:40e8a64e-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230521
+DURATION:P1D
+SUMMARY:云堇的生日
+DESCRIPTION:「和裕茶馆」历来是璃月人工作之余的一大好去处。\n和裕茶馆的生意之所以如此兴隆，一是老板范二爷经营得当，请的茶博士说起书来是一
+ 绝。\n二是璃月知名的戏社「云翰社」正挂靠在此。云翰社如今的当家兼顶梁柱——名角云堇，有时会来登台开唱。\n美味的小吃也好，说书人的故事也好，只要去
+ 对地方，随时都能享受。唯独听云堇唱戏的机会，实在不常有。\n所以，云堇的戏迷们常常守在和裕茶馆，谈论云堇演唱过的戏，交流各自赏戏的体会。\n茶馆里多
+ 了不少常客，十个里九个是云堇的戏迷。\n范二爷对此很是满意。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/云堇
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083054
+UID:40e8a64f-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230727
+DURATION:P1D
+SUMMARY:久岐忍的生日
+DESCRIPTION:在以喧哗招摇为美的「荒泷派」中，总是戴着面铠、沉稳低调的二把手久岐忍，反而比吵闹的同伴还引人注目。\n无论其他人折腾出什么样的
+ 乱子，这位闻讯赶来的「荒泷派」二把手总能用最专业高效的手段一举处理所有问题。\n为零食被抢的孩子做份点心，为磕碰蹭漆的漆器修补涂装，为不幸被拘的同伴
+ 提供辩护…\n种种手腕，令看客无不惊叹：这世上还有没有她搞不定的事？\n「我倒不是什么执业证书都有。有些行业不存在考核标准，就没法考了。」\n不知为
+ 何，即使隔着面铠，她神情中的不快依旧溢于言表。\n「话说回来，这世上怎么会有不持证也能上岗的职业？恕我无法理解。」\n也不知为何，即使隔着面铠，她口
+ 吻中那股深深的质疑与不解仍极富感染力。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/久岐忍
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083054
+UID:40e8a650-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230326
+DURATION:P1D
+SUMMARY:神里绫人的生日
+DESCRIPTION:身为三奉行之一——社奉行神里家的家主，神里绫人的名号在稻妻可谓无人不知、无人不晓。\n但不同于优雅善良的「白鹭公主」绫华，人们
+ 对她的兄长绫人的认知并不清晰。\n人们只知道他是幕府的大人物，是贵族名门的家主，一旦问及细节，却都支支吾吾说不明白。\n有人说：「社奉行办起祭典和活
+ 动向来一丝不苟，又对邻里乡亲多有关照，其中一定少不了奉行大人的辛苦劳作。」\n但也有人肆意评论：「嘁，官场上见不得人的事情多的是。若不是懂些暗度陈仓
+ 的伎俩，怎么能当得上大官呢。」\n对上述种种说法，神里绫人本人似乎不甚在意。\n「我么…只是将军大人麾下一名认真工作、履行职责的公务人员罢了。」
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/神里绫人
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083054
+UID:40e8a651-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230508
+DURATION:P1D
+SUMMARY:柯莱的生日
+DESCRIPTION:「乐于助人」、「阳光善良」、「热情洋溢」…在化城郭内外稍加了解，就能听到人们对这位见习巡林员的称赞。\n只要身体允许，无论学业
+ 如何繁忙，柯莱都不会怠慢巡林工作，更不吝于向各色行人伸出饱含热情的援手。\n只是如此热诚积极的柯莱，似乎也有着不愿为人所知的过往与心事。\n假如在她
+ 经常巡逻的林间，发现贴满奇怪字条的树洞，或是类似碎碎念的声响…\n无论看到听到了什么，还请善解人意地绕道而行，权当作兰那罗开的小小玩笑。\n毕竟有些
+ 琐事，是只能说与树洞听的——至少目前还是。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/柯莱
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083054
+UID:40e8a652-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20231221
+DURATION:P1D
+SUMMARY:多莉的生日
+DESCRIPTION:「多莉·桑歌玛哈巴依，艾尔卡萨扎莱宫之主，无所不有的超级大商人！」\n拿到多莉的名片，映入眼帘的便是这句气派的宣言。\n事实上
+ ，多莉确实是须弥诸多商人中最特别的一个。\n她已经坐拥无数财富，却依旧对赚取摩拉抱有极高的热情；\n她麾下有数支赫赫有名的商队，却依旧会亲自去须弥各
+ 地推销自己的宝贝。\n而她售卖的东西也让人眼花缭乱：特制旅行包、野外烘干机、全自动雪球发射器…只要出得起摩拉，似乎能够从她手上买到任何东西。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/多莉
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083054
+UID:40e8a653-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20231229
+DURATION:P1D
+SUMMARY:提纳里的生日
+DESCRIPTION:途经道成林一带的人有时会遇见一位特别的巡林官。\n他有着大大的耳朵、长长的尾巴和稍显稚嫩的面庞。若不细看，没准会将他当成某种林
+ 子里的珍稀小动物。\n但只要和他接触过，人们就会发现他说起话来干脆利落，十分稳健。\n「请等一下。看你的装备，应该是要前往须弥城的行商吧？方向不对，
+ 回来回来！」\n「喏，扭过头去，看那边。枝叶密集，湿气更重，怎么看都不是通往城镇的大路吧。」\n「哎哟，水袋怎么是空的？」\n「拿来，我分你一点。不
+ 要以为在雨林里就不用准备干净的饮用水了。」\n「在野外乱喝的话，没准一觉醒来就躺在城里的『健康之家』了喔？」\n「当然，如果这个才是你计划中的『行进
+ 路线』，那算你有想法。」\n一连串指挥下来，还没等回过神，这位迷路的朋友就已经被安排妥当了。\n「那个…非常感谢！但、但…请问您是…？」\n看着不知
+ 所措到对着矮自己一头的巡林官连连行礼的旅行商人，同行的巡林队员终于忍不住笑出声来。\n「噗噗…咳。这位啊，是我们的大…呃，提纳里巡林官大人。」
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/提纳里
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083054
+UID:40e8a654-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20231203
+DURATION:P1D
+SUMMARY:妮露的生日
+DESCRIPTION:「既然身处须弥，那就一定不能错过妮露的演出。」\n这是多数须弥人一致认可的事实。\n妮露的舞蹈，并没有门槛，人人都可以欣赏，都
+ 能从中享受一段「入神」的时光。\n妮露的观众，身份各异，不管是博闻强识的学者，还是刀口舔血的佣兵，大家都会被她的婀娜舞姿所吸引。\n妮露每每登台，大
+ 巴扎必是人流如潮。\n虽然在崇尚理性和智慧的须弥，代表着感性的艺术并不占据主流地位。\n但如果说智慧是神明赋予须弥的意义，那么艺术就是人类自身追寻的
+ 意义吧。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/妮露
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083055
+UID:4215cc66-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230623
+DURATION:P1D
+SUMMARY:赛诺的生日
+DESCRIPTION:身为教令院风纪官们的首领，大风纪官赛诺在教令院内的「威名」可谓无人不知，无人不晓。\n虽然他的职责是抓捕违反教令之人，中止违禁
+ 研究，维护院内风纪…但在学者们的口中，这位大风纪官是在毁坏学术，禁绝研究，甚至是「剪除求知之路」，院内的每一个渴望求知的学者都可能受到他的「威胁」…
+ \n久而久之，只要看见了赛诺的身影，学者们都会不约而同地噤声退避，生怕和他沾上一点关系。\n但大风纪官对这种情况并不介意。\n如果这种夸张的「威名」
+ 真能震慑住学者们的话，那也有助于他进行维护院内风纪的工作。\n况且，套用他那位巡林官朋友的话来说——\n「大部分学者所进行的研究，都没有重要到需要和
+ 风纪官谈话的程度。」
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/赛诺
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083055
+UID:4215cc67-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230503
+DURATION:P1D
+SUMMARY:坎蒂丝的生日
+DESCRIPTION:拥有异色眼瞳的坎蒂丝担任着阿如村「守护者」一职。\n对一切来访阿如村的旅人，坎蒂丝总会展现最大的善意，而对某些人无心的失礼之举
+ ，只要对方改正及时，她也不会追究。\n在坎蒂丝眼中，村里的规矩最为重要。只要尊重这些边界，任何人都能被允许在阿如村内休憩。\n可若是将这份宽容视为软
+ 弱，那么，妄图到阿如村行不法之事的人都会付出最为沉重的代价。\n到那时，他们就会发现，坎蒂丝的枪与盾是最可怕的武器。\n阿赫玛尔之嗣，沙漠之民，守护
+ 者…背负重重身份的坎蒂丝担负着守护阿如村这一永恒职责。\n「这座村子，只欢迎守序之人。」
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/坎蒂丝
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083055
+UID:4215cc68-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20231027
+DURATION:P1D
+SUMMARY:纳西妲的生日
+DESCRIPTION:「大慈树王」创造了须弥雨林，又通过教令院将智慧赐予国民。即便她与世长辞，其美名也仍在家喻户晓的故事中传唱。\n而在神陨之后被贤
+ 者们迎回净善宫的「小吉祥草王」，更像是一种符号化的象征——以此昭示神明的庇佑并未从这片土地上消失。\n可她究竟是谁，如何降生，又具备怎样的权能，知晓
+ 答案之人少之又少。\n城中至贤对「小吉祥草王」闪烁其词，民众逐渐从回避的态度中读出了答案，不再奢望神明的智慧凭空降下。\n「虚空」一如既往高效又便捷
+ ，那也是「大慈树王」遗留的神迹，可人们不知道的是，如今「虚空」也成为了新诞神明的耳与目。\n她利用「虚空」遍历了人们的喜怒哀乐，当然也知晓他们对旧神
+ 的崇拜与新神的失望，与诸如「智慧之神已经不复存在」的评价。\n她深知自己必须不断学习，尽快成长，才能面对来自世界最深处的威胁，这是她无法回避的使命。
+ \n不被理解也好，不被重视也好，纳西妲对此并无意见。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/纳西妲
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083055
+UID:4215cc69-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20231219
+DURATION:P1D
+SUMMARY:莱依拉的生日
+DESCRIPTION:梨多梵谛学院是须弥教令院下辖的六大学院之一，占据这所学院的是六大学派中的明论一派。\n六大学派的研究对象各有不同，明论派的研究
+ 中心是从古至今笼罩众生的星空。\n莱依拉正是明论派众多研究者中的一名在读学生。\n她进入教令院学习的时间并不长，却已经被取了许许多多的奇怪称呼。\n
+ 「梦游怪人」、「人形自走计算器」、「天降论文」…这些都是认识莱依拉的人给她起的外号。\n并且随着日子一天天过去，她的绰号还有不断增多的趋势。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/莱依拉
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083055
+UID:4215cc6a-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230103
+DURATION:P1D
+SUMMARY:流浪者的生日
+DESCRIPTION:无需自我介绍，常人不会有机会认识他。\n亦无需步入人海，他自认早已舍弃了无用的情感。\n几度起落，如今他只为自己而活。\n「流
+ 浪者」是他用以描述自身立场的最佳词语——没有故乡，没有亲人，没有目的地。\n如清风一般，活在世间，行在世间。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/流浪者
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083055
+UID:4215cc6b-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230820
+DURATION:P1D
+SUMMARY:珐露珊的生日
+DESCRIPTION:翻开妙论派的某本教材，著者页上端正地写着珐露珊的履历：\n「珐露珊，教令院杰出学者，须弥解谜协会终身成就奖得主，古典机关术学科
+ 奠基人之一。」\n谈及知论派的志愿选择，学长们皱着眉头说起珐露珊的现状：\n「你问珐露珊啊…她的研究太过时了，根本通不过评审。要报考我们学院的话，还
+ 是找别的导师吧。」\n如此天差地别的评价，不由得叫人好奇。\n而面对小辈们的疑惑，珐露珊前辈总是一脸高深：\n「嗯？你问这一百年里都发生了什么？怎么
+ 会变成这样？这可是个大秘密，附耳过来，靠近点，再靠近点…」\n——随后赏了来人一记响亮的脑瓜崩。\n「有这好奇心的话，还是拿去做学问吧——还有，记得
+ 叫我前辈！！」
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/珐露珊
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083055
+UID:4215cc6c-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230306
+DURATION:P1D
+SUMMARY:瑶瑶的生日
+DESCRIPTION:仙人们谨遵与岩王帝君的契约，护佑璃月数千年。\n璃月一旦有难，仙人们定会现身，若逢太平之世，他们偶尔也会露面。\n有时是为了训
+ 诫心怀不轨之徒，有时是为了挽救身陷囹圄之人。要是遇见命中有仙缘的璃月人，仙人们便会收徒传艺。\n诸仙之中，歌尘浪市真君称得上是与凡人结缘较多的。\n
+ 她座下弟子众多，其中最年幼的名叫瑶瑶。\n瑶瑶天资聪颖，积极好学。虽说年齿尚幼，所学知识还不能融汇贯通，时常闹出些无伤大雅的小笑话，但只要假以时日，
+ 定会成长为学识渊博的女子。\n加之性格温柔体贴，待人真诚慷慨，不仅真君本人对她青睐有加，师姐与其他各位长辈也十分爱护她。\n常人无缘得入的绝云间仙众
+ 洞府，瑶瑶时常来去其中。小小年纪便获得仙人如此厚爱，真是令人艳羡。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/瑶瑶
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083055
+UID:4215cc6d-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230211
+DURATION:P1D
+SUMMARY:艾尔海森的生日
+DESCRIPTION:一个有能力的人保持低调太久，总会被认为有什么深藏不露的身份和目的。艾尔海森本人即是对这一切无趣观点的有力反驳：他足够优秀，但只
+ 是一个普通的教令院职工，在须弥拥有稳定工作和优质房产，过着轻松自在的生活。\n有时候，人们根本无法在对应的办公室内找到这位教令院现任书记官。他们顶多
+ 知道他叫艾尔海森，工作时间本该到场。事实却是谁也不知道书记官去了哪里，只能将资料和文件摆到他桌上。\n艾尔海森对此非常满意。他可能在家，可能在图书馆
+ ，反正，就是不在人们希望他在的地方。\n必须让别人无法判断一个人什么时间会做什么，他才可能自由自在地做想做的事。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/艾尔海森
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083055
+UID:4215cc6e-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230407
+DURATION:P1D
+SUMMARY:迪希雅的生日
+DESCRIPTION:「镀金旅团」这个词所指的并不是某群固定的人，而是所有沙漠出身，长大后靠出卖武力谋生的佣兵。\n在这个荒寂的世界里，人类都是一样
+ 的渺小。为了生存，这群人自然而然地走到一起，汇聚成为结构松散的佣兵组织。\n「镀金旅团」成员众多，他们中的大多数注定会被黄沙遗忘，只有少数佼佼者，像
+ 迪希雅，才能在人们的记忆里留下刻痕。\n「炽鬃之狮」迪希雅，勇武凶悍的迪希雅，狮子象征她的力量，炽鬃是对她火热性格的高度概括。\n如果打算招些佣兵当
+ 保镖，你可以考虑迪希雅。她要价不低，不过她的能力值得那个价格。\n比起喀万驿街上自卖自夸的滑头佣兵，还有那些只有蠢力气的新人，迪希雅要细心可靠得多。
+ \n话就说到这里，想成为雇主的话还请尽快做决定。等着请迪希雅的人早就排成长队，去晚可就没机会了。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/迪希雅
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083055
+UID:4215cc6f-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230811
+DURATION:P1D
+SUMMARY:米卡的生日
+DESCRIPTION:每次来到骑士团总部，米卡都会尽快解决与同僚的对接工作并悄无声息地离开。他不想影响任何人的工作节奏。\n只要被人搭话，他就容易过
+ 度紧张。一旦以礼貌的方式结束闲聊，他会立刻慌慌张张地逃开。\n骑士们知道这位年轻人名叫米卡，是同僚霍夫曼的弟弟，施密特家的次子，目前隶属于游击小队。
+ \n但他们并不了解米卡的工作，也不清楚团内正在推广的新版军用地图正是米卡的工作成果。\n新版地图汇集了蒙德周边大多数区域的地形数据，还附有大量的实用
+ 标示——\n包括所有道路的路况、潜在的魔物聚集区与可供据守的高地位置、自然资源的类型与开发状况…详尽得令人眼花缭乱。\n这些全都是米卡走遍蒙德各地，
+ 花费两年亲自勘测的成果。\n少数与米卡并肩作战过的骑士了解他的战斗风格，米卡习惯于并用长枪与手弩，这种战斗方式令他们印象深刻。\n不过他们都接受过米
+ 卡郑重的请求，尽可能不对他人提起米卡的事。\n「米卡很害怕引人注目，别说挨夸了，光是被人盯着看都会紧张得不行，我们这些被他帮过的前辈当然要照顾他的情
+ 绪！」
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/米卡
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083056
+UID:4215cc70-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230709
+DURATION:P1D
+SUMMARY:卡维的生日
+DESCRIPTION:在须弥这样一个人才济济的国度，提到设计师，人们能想到太多可选项，说起建筑设计师，许多人都会下意识想到这个名字——卡维。\n出身
+ 教令院妙论派的他一度被追捧为近几十年最优秀的建筑设计师，享有妙论派之光的美名。不过很遗憾，卡维本人对这一名号并不感动。\n美名与头衔固然是对他的认可
+ ，也是加诸他身的束缚。好比如今，卡维对自己破产一事倍感羞耻。籍籍无名之人可以公然承认自己破产，著名建筑设计师却不行，过分坦诚会招来信誉危机。因此，碍
+ 于面子，卡维总对此事避而不谈，并努力装作自己过着轻松快乐的生活。\n好在他的设计能力与美学造诣非常出众，人们相信他的才华，也就相信了这些。\n大建筑
+ 师卡维又怎么会有太多烦恼呢？
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/卡维
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083056
+UID:4215cc71-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230425
+DURATION:P1D
+SUMMARY:白术的生日
+DESCRIPTION:「不卜庐」的主人白术，医术通玄，仁心济世，却是一位谜团满身之人。\n明明求入门下者济济，偏要收留一名分拣药材都吃力的僵尸做学徒
+ 。\n只是一介凡人，身上竟盘着一条通人言，有仙气的白蛇。\n大病小病都能药到病除，偏偏治不好自己的病体。\n璃月各方自然不会对此视若无睹。毕竟越是有
+ 能力的人，心生恶念之际，酿成的祸患就会越大。\n但无论他们如何明察暗访，都找不出白术有心为恶的迹象，反而使他医者仁心的美名愈发真切。\n至于那些尚不
+ 为人所知的秘密，白术也曾笑答：\n「良药多苦口，那良医心里藏点秘辛，应该也不成问题吧？」
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/白术
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083056
+UID:4215cc72-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230202
+DURATION:P1D
+SUMMARY:琳妮特的生日
+DESCRIPTION:提起枫丹廷最有名气的魔术师，观众一定会想起舞台上神采飞扬的林尼。\n但提起枫丹廷最有名气的魔术助手，观众们就往往摸头不着，莫衷
+ 一是了。\n喝彩并非为她而起，掌声亦非为她而鸣。身为助手，她只会在必要的时机引开观众注意，再将高光时刻还予主角。\n无论是在台上还是台下，琳妮特总是
+ 习惯性地将自己藏在林尼身后，那一小块灯光与赞誉都照不进的影子里。\n对于一名魔术助手而言，保持低调是一种职业素养。\n对于「家」里的孩子而言…隐匿于
+ 影，更是一种生存之道。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/琳妮特
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083056
+UID:4215cc73-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230202
+DURATION:P1D
+SUMMARY:林尼的生日
+DESCRIPTION:枫丹人热衷于各种各样的推理故事，精妙的案件设计与出人意料的剧情反转总是令人津津乐道。\n魔术将这样的体验重现于聚光灯下，只需一
+ 张门票和一段闲暇的时光，就能在掌声与惊呼中享受一段奇妙的旅程。\n若是要问哪一位「导游」设计的路线最令人期待，那爱好者们大多会说出林尼的名字。\n他
+ 潇洒浪漫，才华横溢，看似漫不经心，却能实现一个又一个奇迹。\n在魔术这个行业里，有一手看家绝活就足以声名鹊起，并在很长时间里丰衣足食，不必再风餐露宿
+ 。\n但林尼的表演则总有新花样，有人说他出身贫寒，对名与利有几近贪婪的渴望，这才不愿停下创作的脚步。\n而真相只是身为表演者的他也想要追求新奇感，如
+ 果不能全情投入，他总觉得满腔的表演欲望无法完全燃尽。\n这也是为何即便呼声越来越高，他也很少满足观众想要经典魔术返场的愿望。对某些忠实的粉丝来说，这
+ 或许是一种遗憾。\n——而每每在他们手握演出票进场观演之后，如此这般的遗憾，又只能多上几分了。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/林尼
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083056
+UID:4215cc74-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230924
+DURATION:P1D
+SUMMARY:菲米尼的生日
+DESCRIPTION:无论是初到枫丹观景的游客，还是对宝藏传说暗生兴趣的冒险家，风光旖旎的水下世界总能对他们产生无穷的吸引力。但对普通人来说，如果未
+ 经严格训练或未做充足准备便潜入水中，无疑是将生命放上赌盘。水下的暗流、身体状态的异常变化，或是潜伏在暗处的魔物…危险总是不告而至。借助一名专业潜水员
+ 的帮助，往往是更为明智的选择。\n而向人们打听最为优秀的潜水员，多半能得到「菲米尼」这个名字。就连那些被阳光和海浪洗淘出古铜肤色的老手们，也会不由絮
+ 叨起那位少年的身手，说他不仅熟知枫丹复杂的水文情况，更掌握着针对不同水域、不同季节的潜水技巧，对改变呼吸深浅来调整状态也很有一套，哪怕是没人敢去的海
+ 底洞窟都能穿梭自如…\n听到这里，许多人顺势提出了自己的委托内容。但不管开出的报酬多么丰厚，都只会得来对方无奈的摇头，外加一声更为遗憾的叹息。\n「
+ 那小伙子不接的…人是好人，就是太腼腆了。」\n谈话常常止步于此。\n对菲米尼来说，人们的褒奖总是像天气那样多变，他难以揣测每个人的意图，更惶恐自己在
+ 呼吸间就会做出让评价上下颠覆的错事。\n不如说，汐藻与海露花才是他更为忠实的老友，远比那些浮于海上的名号和报酬重要得多。每每潜入水中，他便与「老友们
+ 」默契地保持长久的沉默，在这份沉默中放下惶恐与不安，倾诉所有不可对他人言说的心事。\n他最初选择下潜的动机也正是那么简单：远离杂音，躲避陆地上发生的
+ 一切。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/菲米尼
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083056
+UID:4215cc75-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20231123
+DURATION:P1D
+SUMMARY:莱欧斯利的生日
+DESCRIPTION:一个令检律庭非常欣慰的事实是，枫丹廷的公民大多遵纪守法，梅洛彼得堡并不会出现在他们的人生轨迹上。\n与此同时，又有一个合情合理
+ 还略显悲哀的事实：服刑结束的罪人很难再融入水上的生活，也大多不会主动提起自己在水下的经历。\n比起具体地点，梅洛彼得堡更像是某种概念，作为警告、不幸
+ 与惩戒的象征出现在枫丹俗语套话之中。而掌管这一概念的人是谁，并不重要。\n得益于此，莱欧斯利几乎像个隐居者，以极不符合其「公爵」身份的方式生活在枫丹
+ 。\n当人们说着「再捣乱就一拳把你打进梅洛彼得堡」或者「这破事真难做，我还不如去海底拧螺丝」时，这个水下要塞的管理人也许正走在通向咖啡厅的石板路上，
+ 准备给自己打包一份下午茶点。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/莱欧斯利
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083056
+UID:4215cc76-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20231218
+DURATION:P1D
+SUMMARY:那维莱特的生日
+DESCRIPTION:那维莱特是一个孤独的人。\n所有尝试过去和他拉近关系的枫丹人无一例外都被那维莱特礼貌地拒绝了。直至今日也没有人知道最高审判官的
+ 名字是什么，因为他始终推荐大家以姓氏称呼他。\n亲密的关系或者人情的往来，他认为这些会引人怀疑判决的公正，而他自己必须是绝对公正的象征。\n这世上自
+ 有纠缠不休的人，他们会说：「那维莱特大人，并不是人人都有上庭的时候。您也总有不坐审判席的时候。」\n真的是这样吗？那维莱特并不会说出真心话。\n在过
+ 于巨大的时间尺度下，河流终有泛滥之时。并非是托喻或者修辞，枫丹每一个人都是罪人。而末日与审判终会落到每一个枫丹人头上。\n——但是那维莱特无法和人说
+ 明这些。\n那维莱特真是一个孤独的人。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/那维莱特
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083056
+UID:4215cc77-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230410
+DURATION:P1D
+SUMMARY:夏洛蒂的生日
+DESCRIPTION:在枫丹廷中，每时每刻都在发生着各种「故事」。\n比如：海露港突然变得格外繁忙，还有不少一看就不是枫丹人的船员在行动；白淞镇里的
+ 某位鱼商突然开始大力收购鱼类，一个月内就购买了之前三个月的量；枫丹廷内突然出现了无数宣传着某处鱼类格外美味的传单…\n在平庸的记者和寻常市民的眼中，
+ 这些都只是单独发生的「故事」，就像是海面上时时刻刻都在翻涌的波涛，稀松平常，不值注意。\n而蹩脚的记者们也追逐着波涛，有气无力地重复着类如波涛的形态
+ 、方向、流速这样无趣的「表面故事」。\n但在夏洛蒂眼中，这些波涛只是表象。她要追寻的故事，是此类波涛为何汹涌横流？\n或许是由于冲斥在海面之上的狂风
+ ，也有可能是因为塔拉塔海谷底部海床环境太过复杂，也不排除是因为埃尔顿海沟深处发生了些微震动…\n这些事物，才是夏洛蒂所想要寻求的「深层新闻」。\n记
+ 者应当是机敏灵动的「探寻者」，而非古板笨拙的「记录者」。\n这即是夏洛蒂的「工作原则」。\n至于怎么保证自己不被「深层新闻」所卷走，那就拜托欧芙小姐
+ 和诸位明了事理的市民朋友们啦！
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/夏洛蒂
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083056
+UID:4215cc78-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20231013
+DURATION:P1D
+SUMMARY:芙宁娜的生日
+DESCRIPTION:如果不踏进气势恢宏的「欧庇克莱歌剧院」，或许他乡的旅人无法理解，此地的神明为何会被冠以「大明星」的称谓。\n无论是演出或是审判
+ ，她总按时出现在观众上方的专属座位，嬉笑怒骂，歇斯底里，往往比舞台上的内容还要令人印象深刻。\n众人买票入场，为的是饱满与新奇的情感体验，在这方面，
+ 芙宁娜显然比绝对公正的那维莱特更加讨喜。\n敬仰的形式绝非只有抬头仰望这一种，枫丹居民对芙宁娜的尊敬可谓别具一格，或者，用「喜爱」一词来形容会更加准
+ 确。\n她并不完美，或许也不强大，但在舞台之上她就是最令人信任的存在，因为她从未令人失望。\n枫丹的文学界有句很流行的比喻，芙宁娜就像是无数人心中永
+ 不褪色的，有关青春的记忆。谁不希望青春常驻呢？\n——纵然青春易逝，可她永远就在那里，循着舞台灯光的方向便可见到。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/芙宁娜
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083057
+UID:4343f068-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230110
+DURATION:P1D
+SUMMARY:夏沃蕾的生日
+DESCRIPTION:在律法齐备——甚至是繁多——的枫丹廷，有着许多让外来游客诧异的律法条例。\n例如，不能将奶油水果挞直接放在未烘热的餐盘上、不能
+ 将没喝完的枫达故意放在路中央、不能忘记给家养的小猫剪指甲…\n如此情况，违律在所难免。但对于熟稔此事的枫丹人来说，他们总是会根据前来处理违律事宜的人
+ 员身份，来辨别事态的严重程度，从而确定自己下一步该做什么。\n如果来的只是店员，那么这件事只用一场简单的争论就能解决，看个热闹很不错；如果来的是穿着
+ 制服的复律官，那就代表着周围的所有人都不得不听一顿啰啰嗦嗦的唠叨，还是赶紧离开为妙；如果来的是执律庭的警官，那被卷入事务的人都要吃点苦头，甚至赔点钱
+ ，这时就该立即澄清自己与此事无关。\n但是，如果来的是那位戴着高帽，身背铳枪的特巡队队长夏沃蕾，和一群特巡队队员…\n那么，就代表着恶性案件正在发生
+ ，也许是恶徒暴力拒捕、凶犯劫持人质…总之，此时唯一应当做的，就是在特巡队队员的引导下迅速回避，给予这群「凶犯处理专家」以行动空间。同时，压抑住自己的
+ 好奇心，不要试图藏匿在某个隐蔽处，试图近距离旁观特巡队执法，即使是采访，也请等待事务处理完毕。\n最重要的是，毋需不安，更不用恐惧。\n因为枫丹人都
+ 知道，当那位夏沃蕾队长出现时，凶犯就已经难逃法网。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/夏沃蕾
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083057
+UID:4343f069-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230816
+DURATION:P1D
+SUMMARY:娜维娅的生日
+DESCRIPTION:枫丹的律法十分严谨，民风却相对自由。社会内有着大大小小的民间组织，或称帮派，它们起源不一、发展不一、目的不一、风格不一。\n比
+ 如曾经短暂出现的「帽子水母帮」，这个对外主张保护水域生态环境的组织，其实是由一群爆破爱好者成立的。\n和这种组织相比，尽管刺玫会的年轻会长有些过分活
+ 泼，但基本上还是一个守法、可靠的好组织。\n按照官方的对外说法，刺玫会是一个以民生为本，涉及各行各业，致力于为民众解决疑难问题，在必要时也会与枫丹当
+ 局沟通合作的帮会。\n如果问娜维娅的话，她会说刺玫会是一个什么人都有，什么忙都帮，在合适的时候说合适的话、开合适的枪的生意伙伴。\n两种说法大约都没
+ 有错，人们可以选择自己喜欢的那个。只是选择后者的人，可能更容易成为娜维娅的朋友。
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/娜维娅
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083057
+UID:4343f06a-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230101
+DURATION:P1D
+SUMMARY:嘉明的生日
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/嘉明
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231221T083057
+UID:4343f06b-9fdb-11ee-806c-e3b6995fb54f
+DTSTART:20230101
+DURATION:P1D
+SUMMARY:闲云的生日
+RRULE:FREQ=YEARLY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://wiki.biligame.com/ys/闲云
+END:VEVENT
+END:VCALENDAR
