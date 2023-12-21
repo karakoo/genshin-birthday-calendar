@@ -83,7 +83,9 @@ async def main():
     ) is None:
         return
     for data in [
-        v for _, v in json_data["data"]["items"].items() if v["name"] != "旅行者"
+        v
+        for _, v in json_data["data"]["items"].items()
+        if v["name"] != "旅行者" and not v.get("beta", False)
     ]:
         new_json_data = await request(
             f"https://api.ambr.top/v2/chs/avatarFetter/{data['id']}"
