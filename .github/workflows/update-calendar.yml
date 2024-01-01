@@ -6,7 +6,7 @@ on:
     paths: # 这里是用来指定哪个文件更改，才会触发的
       - 'run.py'
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 4 * * */3'
   workflow_dispatch:
 jobs:
   Update-Calendar:
