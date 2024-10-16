@@ -88,7 +88,7 @@ async def main():
         if v["name"] != "旅行者" and not v.get("beta", False)
     ]:
         new_json_data = await request(
-            f"https://gi.yatta.moe/api/v2/{LANGUAGE}/avatar/{data['id']}"
+            f"https://gi.yatta.moe/api/v2/{LANGUAGE}/avatarFetter/{data['id']}"
         )
         for i in [0 - j for j in range(1, 5)]:
             try:
